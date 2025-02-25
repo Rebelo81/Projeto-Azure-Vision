@@ -1,0 +1,15 @@
+
+{
+  "apim-request-id": "d3ff453b-22a9-4b74-822c-56bc866923da",
+  "content-length": "159",
+  "content-type": "application/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "a river running through a valley",
+    "confidence": 0.6126350164413452
+  },
+  "metadata": {
+    "width": 960,
+    "height": 639
+  }
+}
